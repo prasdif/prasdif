@@ -2,10 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
 
-# 👋 Hi, I'm [Your Name] — Front-End & MERN Stack Developer
-
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
-
 ⮞ Passionate Front-End & MERN Stack Developer who loves crafting beautiful, high-performance web apps.  
 ⮞ I enjoy turning creative ideas into real-world products using modern web technologies.  
 ⮞ Currently exploring AI integrations with full-stack web apps.  
@@ -24,8 +20,8 @@
 
 ### 📬 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/prasadborase)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[yourprofile](https://x.com/prad_8))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasadborase)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@prad_8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadborse433@gmail.com)
 
 ---
@@ -78,14 +74,6 @@
 - 🎨 Focus on clean UI/UX design and smooth front-end animations.  
 - 🧩 Integrate APIs, authentication, and real-time features (WebSockets, Firebase).  
 - 💡 Constantly learning about modern JS frameworks, cloud tools, and AI workflows.  
-
----
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
 

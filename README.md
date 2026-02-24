@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
 
 ⮞ Passionate Front-End & MERN Stack Developer who loves crafting beautiful, high-performance web apps.  
-⮞ I enjoy turning creative ideas into real-world products using modern web technologies.  
+⮞ I enjoy turning creative ideas into real-world products using modern web technologies. 
 ⮞ Currently exploring AI integrations with full-stack web apps.  
 
 ---
